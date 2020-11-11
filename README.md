@@ -1,2 +1,2 @@
 # Tkinter__Project_Countdown-Calendar
-Calendar that tells the days until your specified date.
+Calendar that counts the days until your specified date.
